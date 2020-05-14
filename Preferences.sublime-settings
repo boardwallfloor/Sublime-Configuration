@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Monokai++/themes/Monokai++.tmTheme",
+	"gn_hide_tab_dropdown": true,
+	"gn_overlay_scroll_bars": true,
+	"gn_sb_cnvx": true,
+	"gn_sidebar_box": true,
+	"gnc_001": false,
+	"gnc_002": true,
+	"gnc_h01": true,
+	"gnc_m00": true,
+	"gnc_m15": true,
+	"gnwidg1": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Guna.sublime-theme"
+}

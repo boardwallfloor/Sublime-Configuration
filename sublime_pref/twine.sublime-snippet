@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+(<<link "this">><<set \$data1++>><<replace "#question-${1:this}">>this<</replace>><</link>>\
+|<<link "that">><<set \$data2++>><<replace "#question-${1:this}">>that<</replace>><</link>>)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+<tabTrigger>lrs</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

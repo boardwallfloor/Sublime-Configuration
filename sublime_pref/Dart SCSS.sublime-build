@@ -1,0 +1,13 @@
+{
+   "file_regex": "^([^:]*):([0-9]*):.*$",
+   "selector": "source.scss, source.sass",
+   "cmd": [
+      "/usr/bin/sass",
+      "--unix-newlines",
+      "--trace",
+      "--style=compressed",
+      "--default-encoding=UTF-8",
+      "$file",
+      "$file_path/$file_base_name.css"
+   ]
+}

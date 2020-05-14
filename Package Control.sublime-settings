@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Git",
+		"GitGutter",
+		"Guna",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Snippets",
+		"Monokai++",
+		"Origami",
+		"Package Control",
+		"PackageSync",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Terminal",
+		"Trimmer"
+	]
+}
