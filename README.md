@@ -1,5 +1,5 @@
-# sublime_pref
-My sublime preference and configuration backup
+# Sublime Configuration
+This is my Sublime Text 3 preference and configuration backup
 
 # How to use
 ```
@@ -12,4 +12,5 @@ My sublime preference and configuration backup
 ```
 # Remember
 Use Monokai++
+
 Current theme is Gina
